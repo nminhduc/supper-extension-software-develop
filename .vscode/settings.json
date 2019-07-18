@@ -57,6 +57,8 @@
     "editor.tabSize": 4,
     "editor.detectIndentation": true,
     "editor.wordWrap": "off",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
     "sonarlint.ls.javaHome": "C:\\Program Files\\Java\\jdk-12.0.1",
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -73,7 +75,7 @@
         "editor.tabCompletion": "on",
         "editor.tabSize": 4,
         "editor.detectIndentation": true,
-        "editor.wordWrap": "off",
+        "editor.wordWrap": "off"
     },
     "git.ignoreLimitWarning": true,
     "files.exclude": {
@@ -95,17 +97,17 @@
     "files.trimTrailingWhitespace": true,
     "prettier.singleQuote": true,
     "workbench.colorCustomizations": {
-        "activityBar.background": "#fbed80",
-        "activityBar.foreground": "#15202b",
-        "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#06b9a5",
-        "activityBarBadge.foreground": "#15202b",
-        "titleBar.activeBackground": "#f9e64f",
-        "titleBar.inactiveBackground": "#f9e64f99",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveForeground": "#15202b99",
-        "statusBar.background": "#f9e64f",
-        "statusBarItem.hoverBackground": "#f7df1e",
-        "statusBar.foreground": "#15202b"
-    },
+        "activityBar.background": "#ab307e",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#25320e",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#832561",
+        "titleBar.inactiveBackground": "#83256199",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#832561",
+        "statusBarItem.hoverBackground": "#ab307e",
+        "statusBar.foreground": "#e7e7e7"
+    }
 }
